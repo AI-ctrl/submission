@@ -28,6 +28,13 @@ Outputs will be saved in threshResults folder.
 open terminal and run
 - python3 handTracking.py
 
+
+
+
+
 cv2 window will pop up and your webcam will be used as video source .
 
 
+#Result of Handtracking
+
+https://user-images.githubusercontent.com/54680798/198865979-3146dabb-c151-471d-84ff-a693929f9b90.mp4
